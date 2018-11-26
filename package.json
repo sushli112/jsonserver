@@ -4,7 +4,7 @@
   "description": "",
   "main": "./src/server/js/index.js",
   "scripts": {
-    "start": "json-server data.json"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
