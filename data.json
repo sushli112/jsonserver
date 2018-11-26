@@ -17,8 +17,8 @@
         "item_list": {
           "items": [
             {
-              "name": "handbag",
-              "description": "Black handbag.",
+              "name": "Rope Shirt",
+              "description": "Slim Fit Shirt",
               "quantity": "1",
               "price": "15",
               "tax": "0.01",
@@ -28,8 +28,8 @@
               "id": 1
             },
             {
-              "name": "handbag",
-              "description": "Black handbag.",
+              "name": "Tript1",
+              "description": "Black Slim Fit Shirt",
               "quantity": "3",
               "price": "5",
               "tax": "0.02",
